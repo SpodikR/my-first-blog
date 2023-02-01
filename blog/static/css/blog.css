@@ -28,6 +28,11 @@ h4 {
 
 .date {
     color: #73b8fc;
+    padding: 10px;
+}
+
+.form-text {
+    color: yellow;
 }
 
 .save {
@@ -46,6 +51,12 @@ h4 {
     float: right;
     font-size: 26pt;
     margin-right: 20px;
+}
+
+.forms {
+    color: yellow;
+    text-align: right;
+  testing
 }
 
 .post {
